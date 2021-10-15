@@ -1,0 +1,28 @@
+{
+  "name": "photo-album-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "seed": "cp db/seed.json db/db.json",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedietrich-dev/photo-album-backend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joedietrich-dev/photo-album-backend/issues"
+  },
+  "homepage": "https://github.com/joedietrich-dev/photo-album-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

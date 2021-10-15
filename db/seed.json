@@ -1,0 +1,82 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "description": "Branches in front of the National Museum of the American Indian",
+      "imageUrl": "https://joedietrich.dev/imagestore/Branches.jpg",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "description": "Roman Catacombs",
+      "imageUrl": "https://joedietrich.dev/imagestore/Catacombs.jpg",
+      "favorite": true
+    },
+    {
+      "id": 4,
+      "description": "Columns at the Cloisters in New York",
+      "imageUrl": "https://joedietrich.dev/imagestore/CloisterColumns.jpg",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "description": "Steps in the Vatican",
+      "imageUrl": "https://joedietrich.dev/imagestore/ItalianSteps.jpg",
+      "favorite": true
+    },
+    {
+      "id": 6,
+      "description": "An Italian street scene.",
+      "imageUrl": "https://joedietrich.dev/imagestore/ItalianStreets.jpg",
+      "favorite": true
+    },
+    {
+      "id": 7,
+      "description": "The Met Opera",
+      "imageUrl": "https://joedietrich.dev/imagestore/MetOpera.jpg",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "description": "The steps at the Metropolitan Opera",
+      "imageUrl": "https://joedietrich.dev/imagestore/MetSteps.jpg",
+      "favorite": true
+    },
+    {
+      "id": 9,
+      "description": "A well-loved telephone pole",
+      "imageUrl": "https://joedietrich.dev/imagestore/NailTree.jpg",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "description": "The Statue of Liberty",
+      "imageUrl": "https://joedietrich.dev/imagestore/StatueOfLiberty.jpg",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "description": "An alley in Venezia",
+      "imageUrl": "https://joedietrich.dev/imagestore/VenetianAlley.jpg",
+      "favorite": true
+    },
+    {
+      "id": 12,
+      "description": "Under the streets of Seattle.",
+      "imageUrl": "https://joedietrich.dev/imagestore/SeattleUnderground1.jpg",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "description": "Ceiling vault in the DC Metro.",
+      "imageUrl": "https://joedietrich.dev/imagestore/DCMetroVault.jpg",
+      "favorite": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1"
+    }
+  ]
+}
